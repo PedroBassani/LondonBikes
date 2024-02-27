@@ -32,3 +32,8 @@ You can find example notebooks in the [examples](examples/) directory that showc
 
    ```bash
    git clone https://github.com/your-username/london-bike-sharing.git
+
+
+## Dashboard
+
+In the end of this project, I developed a dashboard in Tableau, it can be found [here](https://public.tableau.com/app/profile/pedro.bassani/viz/LondonBikeRides_17090424782560/LondonBikeRides?publish=yes).
